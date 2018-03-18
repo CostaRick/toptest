@@ -497,7 +497,7 @@
           "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://language-college.com\" target=\"_blank\">online Sprachschule</a></li><li><br></li></ul>",
           "form": {
             "title": "MESSAGE",
-            "action": "costarica@zoologie-online.de",
+            "action": "dilger@language-college.com",
             "alerts": {
               "success": "Danke für Ihre Nachricht. Wir werden Sie innerhalb eines Werktages kontaktieren."
             },
