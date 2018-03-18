@@ -6,7 +6,9 @@
       "name": "default",
       "title": "Mobirise",
       "styling": {},
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#333333"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -18,8 +20,8 @@
     "google-analytics": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 15,
-    "versionPublish": "4.6.5",
+    "uniqCompNum": 21,
+    "versionPublish": "4.6.6",
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -64,7 +66,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Testangebot</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Zielgruppen</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Hilfe</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">Sprachtest buchen</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Testangebot</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Vorteile</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Privatperson</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Für Bewerbungsmappen<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Assesment Centers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Minimalversion</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Komplett<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Hilfe</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://login.html\">PARTNER LOGIN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html#pricing-table1-c\">Sprachtest buchen</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -72,8 +74,9 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "http://testedeinsprachlevel.de",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Teste Dein Sprachlevel</a>",
@@ -92,7 +95,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "images/bg.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1691x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -104,9 +107,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Online Sprachtestungen",
-          "text": "Objektive Einschätzung des Spachlevels, bequem und vailde",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Sprachtest buchen</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">wie funktioniert es?</a>",
+          "title": "Online Sprachtestungen für Ihr Assesment Center",
+          "text": "wissenschaftlich fundierte Einschätzung des Spachlevels in Englisch, Spanisch und Deutsch",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"index.html#pricing-table1-c\" data-toolbar=\"-mbrBtnMove\">Sprachtest buchen</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"index.html#msg-box4-a\" data-toolbar=\"-mbrBtnMove\">wie funktioniert es?</a>",
           "_tags": [
             "Theme"
           ],
@@ -117,6 +120,9 @@
             ".btn": {
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            "H1": {
+              "color": "#faaf40"
             }
           }
         },
@@ -163,8 +169,8 @@
               "size": 0
             }
           },
-          "title": "Online Sprachtest in allen Kompetenzen - bei uns sind Sie richtig",
-          "text": "<p>Sie möchten eine namhafte, offiziell anerkannten Sprachtest absolvieren um sich beruflich weiter zu qualifizieren, Ihren Lebenslauf aufzuwerten oder einfach Ihren Lernfortschritt zu dokumentieren. Wir bieten Ihnen diese Möglichkeit sogar online und bequem von zu Hause aus. Wir testen Ihr Lesen, Schreiben, Hören und Sprechen durch Videochat auf unterschiedlichen Sprachniveaus und bieten Ihnen Ihre von telc Language Tests, einem der größten Testanbieter Europas, standardisierten Sprachtest mit Urkunde. Gerne beraten wir Sie bei individuellen Fragen und hinsichtlich des für Sie persönlich passenden Sprachniveaus.</p>",
+          "title": "Online Sprachtest in allen Kompetenzen - so bekommen Sie verlässliche Einschätzung",
+          "text": "<p>Sie möchten die Sprachkenntnisse von Bewerbern schnell, objektiv und verlässlich abprüfen und eine wissenschaftlich fundierte Bewertung in Händen halten? Dies sollte ohne zeit- und kostenaufwändige Befragungen gesehen?</p><p>Wir bieten Ihnen diese Möglichkeit im Rahmen Ihrer Assessment Auswahl oder bereits im Vorfeld als verlässliches Online-Angebot vorab bei dem Bewerber direkt zu Hause. Die Ergebnisse kann der Kandididat dann direkt beim Bewerbungsgespräch vorlegen.<br>Unser Testangebot umfasst&nbsp;&nbsp;die Einschätzung von Lese-, Schreib-, Hör- und Sprechkenntnissen durch Videochat auf unterschiedlichen Sprachniveaus. Unsere Testung basiert of den telc Language Testungen, einem der größten Testanbieter Europas. Gerne beraten wir Sie bei individuellen Fragen und hinsichtlich des für Sie passenden Angebots.</p>",
           "_tags": [
             "Theme"
           ],
@@ -233,8 +239,8 @@
             }
           },
           "title1": "Unsers Sprachtests für Sie",
-          "caption1": "Bei uns finden Sie die Möglichkeit Ihren Sprachtest in Englisch und Deutsch bequem online abzulegen. Wählen Sie aus unserem Angebot das für Sie passende Sprachniveau und buchen Sie Ihren persönlichen Test zu Ihrem Wunschtermin.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "caption1": "Die eigene Einschätzung von Sprachkenntnissen in Bewerbungsmappen entsprechen meist subjekten Annahmen und schulische Leistungen entsprechen oft nicht dem Realbild. <br>Durch unsere Einstufung erhalten sie eine valide, wissenschaftliche fundierde Einstufung der Kenntnisse. So erfahren Sie, ob der Bewerber ausreichende Fremdsprachenkenntnisse für Kunden- oder Kollegengespräche besitzt. Auch ein Förderbedarf der Deutschkenntnisse ausländischer Mitarbeiter kann schnell erkannt werden.<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">TELEFONTERMIN<br>VEREINBAREN<br></a>",
           "media2": {
             "image": {
               "active": true,
@@ -256,8 +262,8 @@
             }
           },
           "title2": "Warum Sprachtests online",
-          "caption2": "Durch die Nutzung moderner und einfach anzuwendender Technik bieten sich zahlreiche Möglichkeiten für Sie. Örtliche und zeitliche Flexibilität sowie garantiert standardisierte Testbedingungen sind nur einige der Vorteile unserer Onlinesprachtests.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "caption2": "Bei uns finden Sie die Möglichkeit Ihren Sprachtest in Englisch, Spanisch und Deutsch bequem online abzulegen. Dies bietet Ihnen die Möglichkeit der Bewerbertestung im Rahmen eines Assessment Centers vor Ort oder vorab von zu Hause aus.<br>Sie sparen damit Zeit bei der Bewerberauswahl und bekommen eine realistische Einschätzung, welche Ihnen bei der Auswahl von Bewerbern helfen wird.<br><br><br><br><br><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">TELEFONTERMIN\n<br>VEREINBAREN</a>",
           "media3": {
             "image": {
               "active": true,
@@ -279,8 +285,8 @@
             }
           },
           "title3": "Kontakt",
-          "caption3": "Qualitativ hochwertige Sprachtests abzunehmen ist für uns selbstverständlich. Für unsere Teilnehmer und Interessenten haben wir stets ein offenes Ohr. Sie haben Fragen? Wir freuen uns darauf, Ihnen weiterhelfen zu können.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "caption3": "Qualitativ hochwertige Sprachtests abzunehmen ist für uns selbstverständlich. <br>Gerne beraten wir Sie über Einzel- oder Volumentarife, Buchungsmöglichkeiten und Ablauf der Prüfungen.&nbsp;<br><br>Sie haben Fragen? Wir freuen uns darauf, Ihnen weiterhelfen zu können.<br><br><br><br><br><br><br><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">TELEFONTERMIN\n<br>VEREINBAREN</a>",
           "media4": {
             "image": {
               "active": true,
@@ -345,7 +351,12 @@
             "Theme"
           ],
           "_name": "features1",
-          "_anchor": "features1-6"
+          "_anchor": "features1-6",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_params": {
@@ -372,25 +383,25 @@
           },
           "title1": "Basisprüfung<br><br>Englisch, Deutsch oder Spanisch<br>",
           "currency1": "€",
-          "price1": "29",
+          "price1": "29<a href=\"index.html#msg-box1-k\" class=\"text-gray\">*</a>",
           "period1": "Lesen und Hörverstehen online",
           "list1": "<ul><li><b>Adaptiver Test auf allen Niveaustufen</b></li><li><b>im Internetbrowser</b></li><li><b>mit Einführung</b></li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">HIER BUCHEN</a>",
           "title2": "Schreibteilprüfung<br><br>Englisch, Deutsch oder Spanisch",
           "currency2": "€",
-          "price2": "10",
+          "price2": "10<a href=\"index.html#msg-box1-k\" class=\"text-gray\">*</a>",
           "period2": "online-Prüfung mit Prüfern",
           "list2": "<ul><li><b>Zeit- und Ortsflexibel</b></li><li><b>zertifizierte Prüfer</b></li><li><br></li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">HIER BUCHEN</a>",
           "title3": "Kommunikationsprüfung<br>\n<div>\n</div><div><br>Englisch, Deutsch oder Spanisch</div>",
           "currency3": "€",
-          "price3": "15",
+          "price3": "15<a href=\"index.html#msg-box1-k\" class=\"text-gray\">*</a>",
           "period3": "im online Videochat",
           "list3": "<ul><li><b>zertifizierte Prüfer</b></li><li><b>keine zusätzliche Software</b></li><li><b>mit Termin</b></li></ul>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">HIER BUCHEN</a>",
           "title4": "Gesamtpaket<br><br>Englisch, Deutsch oder Spanisch",
           "currency4": "€",
-          "price4": "49",
+          "price4": "49<a href=\"index.html#msg-box1-k\" class=\"text-gray\">*</a>",
           "period4": "Lesen, Hören, Schreiben, Kommunikationsprüfung",
           "list4": "<ul><li><b>alle Kompetenzen</b></li><li><b>Sie sparen €15</b></li><li><br></li></ul>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">HIER BUCHEN</a>",
@@ -405,6 +416,43 @@
           ],
           "_name": "pricing-table1",
           "_anchor": "pricing-table1-c"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3C3C3C",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "*Volumenvertäge möglich",
+          "text": "Kontaktieren Sie uns für Ihr auf Sie zugeschnittenes Angebot",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Kontaktieren Sie uns</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-k"
         },
         {
           "_params": {
@@ -430,6 +478,116 @@
           ],
           "_name": "social-buttons1",
           "_anchor": "social-buttons1-e"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">CONTACT US</a>",
+          "text1": "<strong>Adresse</strong><br>\nRheinaustr. 5<br>\nMannhein, GER 68163<br><br>\n<strong>CONTACTS</strong><br>\nEmail: info@language-college.com<br>\nPhone: <a href=\"tel:+49-621-18065769\">(+49) 621 18065769</a><br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://language-college.com\" target=\"_blank\">online Sprachschule</a></li><li><br></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "dilger@language-college.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-d"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Web Site Generator Description",
+        "title": "Assessment-Center",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Testangebot</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Vorteile</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Privatperson</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Für Bewerbungsmappen<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Assesment Centers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Minimalversion</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Komplett<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Hilfe</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://login.html\">PARTNER LOGIN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html#pricing-table1-c\">Sprachtest buchen</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/aaalclogowhite.svg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://testedeinsprachlevel.de",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Teste Dein Sprachlevel</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-f"
         },
         {
           "_params": {
@@ -479,7 +637,166 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-d"
+          "_anchor": "contacts3-g"
+        },
+        {
+          "_inherit": "slider",
+          "_afterNavbarItem": ".mbr-slider",
+          "_params": {
+            "autoplay": true,
+            "showBullets": true,
+            "slides": [
+              {
+                "image": "images/slide1.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "OBJEKTIVE EINSTUFUNG",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "images/slide2.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "SOFORTIGE ERGEBNISSE",
+                "contentAlign": "left",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "images/slide3.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "GESTUFTE NIVEAUS",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": true,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
+          "_anchor": "slider2-h"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "Page 2",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Testangebot</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Vorteile</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Privatperson</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Für Bewerbungsmappen<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Assesment Centers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Minimalversion</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Komplett<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Hilfe</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://login.html\">PARTNER LOGIN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html#pricing-table1-c\">Sprachtest buchen</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/aaalclogowhite.svg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://testedeinsprachlevel.de",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Teste Dein Sprachlevel</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-i"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">CONTACT US</a>",
+          "text1": "<strong>Adresse</strong><br>\nRheinaustr. 5<br>\nMannhein, GER 68163<br><br>\n<strong>CONTACTS</strong><br>\nEmail: info@language-college.com<br>\nPhone: <a href=\"tel:+49-621-18065769\">(+49) 621 18065769</a><br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://language-college.com\" target=\"_blank\">online Sprachschule</a></li><li><br></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "sascha_dilger@zoologie-online.de",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-j"
         }
       ]
     }
