@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Teste Dein Sprachlevel",
-    "currentPage": "business.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -25,7 +25,7 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "business.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "bewerbertestung",
